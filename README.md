@@ -1,4 +1,3 @@
 #NotarySite_v1
 This is a website for my wife.
 
-My wife has been going the proccess to get her notary licence so she can have another stream of income. My wife wanted to make her a simple site to adverise her business. So I decide to build a the site only using three languages. first I will be use HTML5 and try to make symantic as possible for my learning. Second, I was looking at use CSS3 for the styling. I chose these two langauge over bootstrape is becasue there is to much overhead. I need something spacific. Javascript is something that I am currently learning and will be using the language in this project.
